@@ -23,3 +23,7 @@ A real-world Python application combining FastAPI, SQL Database, and External AP
 | *Exception Handling* | try/except for DB, invalid ID, book not available |
 
 ### 🏗️ Project Structure
+
+### Screenshots
+![Swagger](screenshots/swagger.png)
+![Terminal](screenshots/terminal.png)
