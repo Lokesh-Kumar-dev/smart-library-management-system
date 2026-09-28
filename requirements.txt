@@ -1,0 +1,5 @@
+pyodbc
+requests
+fastapi
+uvicorn
+pydantic
